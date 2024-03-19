@@ -12,3 +12,6 @@ During first part of this project I went throw a lot of charts to get some insig
 
 ## Model creation 
 I decided for my first project to create relatively simple model that I understand. As signalized earlier I also wanted to have access to feature importance. So I've choosen DecisionTreeClassifier. In final we got relatively good predictor and conclusion which features might influence success of marketing campaign.
+
+## To Do:
+Expanding final conclusions. Correcting texts (potential grammar/spelling mistakes)
